@@ -39,7 +39,7 @@ This project offers different maze generation algorithms, including:
 
 ## License
 
-**This project is open-source and available under the [MIT License](LICENSE).**
+**This project is open-source and available under the [MIT License](https://github.com/TalosTheMinoan/Random-maze-generator/blob/main/licence.mit).**
 
 ## Acknowledgments
 
