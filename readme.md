@@ -15,9 +15,12 @@ This Python project allows you to generate random mazes using various algorithms
 
 2. Run the `main.py` script to launch the maze generator.
 
-3. Choose a maze generation algorithm (e.g., Depth-First Search or Prim's) and follow the on-screen instructions.
+3. Enjoy exploring the randomly generated maze!
 
-4. Enjoy exploring the randomly generated maze!
+
+## Upcoming features
+
+Choose a maze generation algorithm (e.g., Depth-First Search or Prim's) and follow the on-screen instructions.
 
 ## Maze Generation Algorithms
 
