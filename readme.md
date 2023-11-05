@@ -1,5 +1,8 @@
 # Maze Generator
 
+![Visitor Count](https://profile-counter.glitch.me/TalosTheMinoan/count.svg)
+
+
 ## Description
 
 This Python project allows you to generate random mazes using various algorithms. You can choose between different maze generation methods to create unique mazes.
